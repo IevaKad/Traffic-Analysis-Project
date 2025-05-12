@@ -1,0 +1,14 @@
+streamlit
+pandas
+matplotlib
+calplot
+holidays
+plotly
+seaborn
+geopandas
+shapely
+joblib
+numpy
+scikit-learn
+pyproj
+requests
